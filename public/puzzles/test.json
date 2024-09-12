@@ -1,5 +1,6 @@
 {
   "name": "Test Puzzle",
+  "time": 60,
   "dimensions": {
     "x": 10,
     "y": 6,
