@@ -1,7 +1,7 @@
 # 3dnonogram
 A 3d nonogram web app
 
-## Features
+## TODO
 - [ ] User Interface
 - [ ] Puzzle Controls
 - [ ] Puzzle Score System
